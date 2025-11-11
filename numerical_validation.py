@@ -535,7 +535,7 @@ if __name__ == "__main__":
     print("*"*50)
     # for demo purposese we assume 1/x always
     generalized_example_1_single_power(Quaternion(0,0,1,1),7)
-    generalized_example_1_sigeneralized_example_1_single_powerngle_power(Quaternion(0,0,1,1),12)
+    generalized_example_1_single_power(Quaternion(0,0,1,1),12)
     generalized_example_1_single_power(Quaternion(0,0,1,1),57)
 
     plt.show()
