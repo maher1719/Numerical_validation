@@ -1,0 +1,76 @@
+power: 0.3333333333333333, iterations: 100000
+METRIC               | STANDARD (EULER)     | UNIVERSAL (MAHER)    | STATUS
+--------------------------------------------------------------------------------
+Accuracy (Error)     | 4.58e-16             | 5.55e-16             | TIED
+Equivalence Diff     | N/A                  | N/A                  | 7.85e-17
+Speed                | 0.5794s             | 0.4096s             | UNIVERSAL (1.4x faster)
+power: 0.3333333333333333, iterations: 1000000
+METRIC               | STANDARD (EULER)     | UNIVERSAL (MAHER)    | STATUS
+--------------------------------------------------------------------------------
+Accuracy (Error)     | 4.58e-16             | 5.55e-16             | TIED
+Equivalence Diff     | N/A                  | N/A                  | 7.85e-17
+Speed                | 5.8106s             | 3.8198s             | UNIVERSAL (1.5x faster)
+power: 0.06666666666666667, iterations: 100000
+METRIC               | STANDARD (EULER)     | UNIVERSAL (MAHER)    | STATUS
+--------------------------------------------------------------------------------
+Accuracy (Error)     | 4.58e-16             | 5.55e-16             | TIED
+Equivalence Diff     | N/A                  | N/A                  | 7.85e-17
+Speed                | 0.5616s             | 0.3842s             | UNIVERSAL (1.5x faster)
+power: 0.06666666666666667, iterations: 1000000
+METRIC               | STANDARD (EULER)     | UNIVERSAL (MAHER)    | STATUS
+--------------------------------------------------------------------------------
+Accuracy (Error)     | 4.58e-16             | 5.55e-16             | TIED
+Equivalence Diff     | N/A                  | N/A                  | 7.85e-17
+Speed                | 5.6447s             | 3.9392s             | UNIVERSAL (1.4x faster)
+power: 0.0007892659826361484, iterations: 100000
+METRIC               | STANDARD (EULER)     | UNIVERSAL (MAHER)    | STATUS
+--------------------------------------------------------------------------------
+Accuracy (Error)     | 4.58e-16             | 5.55e-16             | TIED
+Equivalence Diff     | N/A                  | N/A                  | 7.85e-17
+Speed                | 0.6091s             | 0.4159s             | UNIVERSAL (1.5x faster)
+power: 0.0007892659826361484, iterations: 1000000
+METRIC               | STANDARD (EULER)     | UNIVERSAL (MAHER)    | STATUS
+--------------------------------------------------------------------------------
+Accuracy (Error)     | 4.58e-16             | 5.55e-16             | TIED
+Equivalence Diff     | N/A                  | N/A                  | 7.85e-17
+Speed                | 6.4736s             | 4.0092s             | UNIVERSAL (1.6x faster)
+drift at 50 euler: 2.6645352591003757e-15
+drift at 50 universal: 2.6645352591003757e-15
+ differences : 0.0
+************************************************************
+drift at 100 euler: 5.551115123125783e-15
+drift at 100 universal: 5.551115123125783e-15
+ differences : 0.0
+************************************************************
+drift at 150 euler: 9.103828801926284e-15
+drift at 150 universal: 9.103828801926284e-15
+ differences : 0.0
+************************************************************
+drift at 200 euler: 1.2434497875801753e-14
+drift at 200 universal: 1.2434497875801753e-14
+ differences : 0.0
+************************************************************
+drift at 250 euler: 1.6653345369377348e-14
+drift at 250 universal: 1.6653345369377348e-14
+ differences : 0.0
+************************************************************
+drift at 300 euler: 2.1760371282653068e-14
+drift at 300 universal: 2.1760371282653068e-14
+ differences : 0.0
+************************************************************
+drift at 350 euler: 2.7977620220553945e-14
+drift at 350 universal: 2.7977620220553945e-14
+ differences : 0.0
+************************************************************
+drift at 400 euler: 3.419486915845482e-14
+drift at 400 universal: 3.419486915845482e-14
+ differences : 0.0
+************************************************************
+drift at 450 euler: 4.196643033083092e-14
+drift at 450 universal: 4.196643033083092e-14
+ differences : 0.0
+************************************************************
+drift at 500 euler: 5.0182080713057076e-14
+drift at 500 universal: 5.0182080713057076e-14
+ differences : 0.0
+************************************************************
